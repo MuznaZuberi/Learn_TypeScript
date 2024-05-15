@@ -2,11 +2,11 @@
 
 ### TypeScript is an open-source programming language developed by Microsoft. It is a statically typed superset of JavaScript that compiles to plain JavaScript. Here's what that means:
 
-Statically typed: TypeScript introduces static typing to JavaScript. This means that TypeScript allows you to specify types for variables, function parameters, return values, and other parts of your code. This helps catch type-related errors during development, before your code is executed.
+Statically typed: TypeScript introduces static typing to JavaScript. This means that TypeScript allows you to specify types for variables, function parameters, return values, and other parts of your code. This helps catch type-related errors during development before your code is executed.
 
 Superset of JavaScript: TypeScript builds upon JavaScript, which means that any valid JavaScript code is also valid TypeScript code. This makes it easy to gradually adopt TypeScript in existing JavaScript projects.
 
-Compilation to JavaScript: TypeScript code is compiled to plain JavaScript code. This compilation step is performed using the TypeScript compiler (tsc), which translates TypeScript code into JavaScript code that can run in any browser or JavaScript runtime environment.
+Compilation to JavaScript: TypeScript code is compiled into plain JavaScript code. This compilation step is performed using the TypeScript compiler (tsc), which translates TypeScript code into JavaScript code that can run in any browser or JavaScript runtime environment.
 
 Features: TypeScript introduces several features to JavaScript, including static typing, interfaces, enums, classes, generics, and more. These features help developers write more maintainable, scalable, and robust code, especially in large-scale applications.
 
